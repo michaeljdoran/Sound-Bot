@@ -1,0 +1,13 @@
+{
+  "name": "Discord-Sound-Bot",
+  "version": "1.0.0",
+  "description": "The Dankest Bot on Discord",
+  "main": "bot.js",
+  "author": "Michael Doran",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "ffmpeg-binaries": "^3.2.2-3",
+    "opusscript": "0.0.6",
+    "ytdl-core": "^0.18.5"
+  }
+}
